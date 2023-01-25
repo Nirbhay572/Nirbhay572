@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nirbhay Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="left" width=400 alt="Coading" src="https://fierocode.com/wp-content/uploads/2016/10/coding-1024x683.jpeg">
+<img align="right" width=400 alt="Coading" src="https://fierocode.com/wp-content/uploads/2016/10/coding-1024x683.jpeg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirbhay572&label=Profile%20views&color=0e75b6&style=flat" alt="nirbhay572" /> </p>
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/nirbhay5726" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/nirbhay5726?logo=twitter&style=for-the-badge" alt="https://twitter.com/nirbhay5726" /></a> </p>
